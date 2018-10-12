@@ -1,3 +1,3 @@
 #Hackeryou simple test, Tashi Paljor
 
-#File edited with App.js and App.css
+#File edited with src/App.js and src/App.css
