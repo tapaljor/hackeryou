@@ -1,0 +1,82 @@
+.App {
+  text-align: center;
+}
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+}
+.App-header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+}
+.App-header img {
+	margin-top: 5px;
+	max-width: 30%;
+}
+.App-intro {
+	clear: both;
+	margin: auto;
+	margin: 2em 5em 0 5em;
+}
+.introduction {
+	padding: 1em;
+	border: 1px solid gray;
+	padding: 1em;
+}
+.App-beer {
+	float: left;
+	margin: 1em 1em 2em 0;
+	max-width: 28%;
+	padding: 1em;
+	overflow: hidden;
+}
+.container {
+	margin: auto;
+	width: 100%;
+	height: 200px;
+	overflow: hidden;
+}
+.container img {
+	width: 100%;
+}	
+.App-footer {
+	font-size: 10px;
+	clear: both;
+	height: 2em;
+	padding: 2em;
+	background-color: black;
+	font-style: italic;
+	color: #fff;
+	text-align: center;
+}
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+ @media (max-width: 600px) {
+
+	body {
+		/* Set the background color to be purple */
+		background-color: purple;
+		/* Set the font color to be white */
+		color: white;
+	 }
+	p {
+		color: pink;
+	}
+	h2 {
+		color: yellow;
+	}
+}
+
