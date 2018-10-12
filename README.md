@@ -1,3 +1,1 @@
-# hackeryou
-
-This is hackeryou simple React Test
+#Hackeryou simple test, Tashi Paljor
